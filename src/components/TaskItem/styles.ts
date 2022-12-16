@@ -17,8 +17,8 @@ export const styles = StyleSheet.create({
     marginBottom: 8,
   },
   checkbox: {
-    width: 18,
-    height: 18,
+    width: 20,
+    height: 20,
     borderRadius: 999,
     alignItems: 'center',
     justifyContent: 'center'
@@ -36,6 +36,7 @@ export const styles = StyleSheet.create({
     color: THEME.COLORS.GRAY_100,
     maxWidth: '82%',
     overflow: 'hidden',
+    flex: 1,
   },
   completed: {
     color: THEME.COLORS.GRAY_300,
