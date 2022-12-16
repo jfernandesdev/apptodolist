@@ -1,9 +1,9 @@
-# ToDo List 📋
+# App ToDo List 📋
 
 Desafio 01 - Ignite: Trilha React Native - "Praticando os conceitos do React Native"
 
 ## Sobre o desafio: 
-Desenvolver uma aplicação de controle de tarefas no estilo to-do list que contém as seguintes funcionalidades:
+Desenvolver uma aplicação mobile de controle de tarefas no estilo to-do list que contém as seguintes funcionalidades:
 - [x] Adicionar uma nova tarefa;
 - [x] Marcar e desmarcar uma tarefa como concluída;
 - [x] Remover uma tarefa da listagem;
@@ -24,10 +24,9 @@ Desenvolver uma aplicação de controle de tarefas no estilo to-do list que cont
 
 ## Layout 🎨
 
-
 | Todo - Empty | Todo - Description | Todo - List | 
 | --- | --- | --- | 
-| <img src="" width='275px' /> | <img src="" width='275px' /> | <img src="" width='275px' /> |
+| <img src="https://github.com/jfernandesdev/apptodolist/blob/302227788f66a7ea0f50ffe041bf97ec4f84c953/src/assets/layout/mobile-1.png" /> | <img src="https://github.com/jfernandesdev/apptodolist/blob/302227788f66a7ea0f50ffe041bf97ec4f84c953/src/assets/layout/mobile-2.png" /> | <img src="https://github.com/jfernandesdev/apptodolist/blob/302227788f66a7ea0f50ffe041bf97ec4f84c953/src/assets/layout/mobile-3.png" /> |
 
 
 ##  Rodando a aplicação localmente: ⚙
